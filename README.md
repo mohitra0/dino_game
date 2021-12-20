@@ -1,8 +1,11 @@
-# game
+# Dino game
 
 A new Flutter application.
 
 ## Getting Started
+  <div class="row">
+    <img src="https://user-images.githubusercontent.com/69755039/146716902-7e4b3f0a-5b57-41d0-91b9-20b5a7bfc28e.jpg" width="1080" height="850">
+  </div>
 
 This project is a starting point for a Flutter application.
 
